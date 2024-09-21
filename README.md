@@ -4,6 +4,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wenhaofree/wenhaofree/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wenhaofree/wenhaofree/output/github-contribution-grid-snake.svg">
 </picture>
+
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wenhaofree)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wenhaofree&left_color=green&right_color=red)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenhaofree)
