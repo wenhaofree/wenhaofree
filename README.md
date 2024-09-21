@@ -6,7 +6,6 @@
 </picture>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wenhaofree)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wenhaofree&left_color=green&right_color=red)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenhaofree)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wenhaofree)
 
