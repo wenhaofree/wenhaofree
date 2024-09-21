@@ -15,12 +15,17 @@
 ## Hi there 👋
 This is the place where I opensource stuff and break things 🤣
 
-🔭  I’m currently working on something cool 😉
+🔭  I’m currently working on something cool 😉 
+
 🌱  I’m currently learning Rust
+
 💬  Ask me about anything related to JavaScript/TypeScript or Vue
+
 👨‍💻  Read more about my projects at wenhaofree.com
+
 ⚡  Fun fact: I want to raise a cat 🐈
 
+profile-3d-contrib/profile-night-rainbow.svg
 
 
 <!--
