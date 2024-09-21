@@ -6,7 +6,7 @@
 </picture>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wenhaofree)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenhaofree)
+![wenhaofree's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenhaofree&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wenhaofree)
 
 
