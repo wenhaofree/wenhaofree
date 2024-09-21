@@ -25,8 +25,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ⚡  Fun fact: I want to raise a cat 🐈
 
-profile-3d-contrib/profile-night-rainbow.svg
-
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
 **wenhaofree/wenhaofree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
