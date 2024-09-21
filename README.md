@@ -12,7 +12,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wenhaofree)
 -->
 
-## Hi there 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm WenHao I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
 This is the place where I opensource stuff and break things 🤣
 
 🔭  I’m currently working on something cool 😉 
