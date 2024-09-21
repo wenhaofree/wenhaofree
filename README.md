@@ -1,20 +1,11 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wenhaofree/wenhaofree/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wenhaofree/wenhaofree/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wenhaofree/wenhaofree/output/github-contribution-grid-snake.svg">
-</picture>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wenhaofree)
-
 <!--
 
 ![wenhaofree's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenhaofree&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wenhaofree)
 -->
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm WenHao I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+## Hi there 👋
 
-<br />
 This is the place where I opensource stuff and break things 🤣
 
 🔭  I’m currently working on something cool 😉 
@@ -26,6 +17,16 @@ This is the place where I opensource stuff and break things 🤣
 👨‍💻  Read more about my projects at wenhaofree.com
 
 ⚡  Fun fact: I want to raise a cat 🐈
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wenhaofree/wenhaofree/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wenhaofree/wenhaofree/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wenhaofree/wenhaofree/output/github-contribution-grid-snake.svg">
+</picture>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wenhaofree)
+
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
