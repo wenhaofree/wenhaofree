@@ -8,15 +8,15 @@
 
 This is the place where I opensource stuff and break things 🤣
 
-🔭  I’m currently working on something cool 😉 
+🔭 Currently working on: Some cool projects, focusing on full-stack development. 😉
 
-🌱  I’m currently learning Rust
+🌱 Learning: Improving my skills in backend and frontend technologies!
 
-💬  Ask me about anything related to JavaScript/TypeScript or Vue
+💬 Ask me about: Java, Python, Node.js, Next.js, React, MySQL, PostgreSQL, Redis, MongoDB, Spring Boot.
 
-👨‍💻  Read more about my projects at wenhaofree.com
+👨‍💻 Projects: You can check out my projects and contributions at wenhaofree.com
 
-⚡  Fun fact: I want to raise a cat 🐈
+⚡ Fun fact: I have a goal to raise a cat 🐈 and build some fun things together!
 
 
 <picture>
