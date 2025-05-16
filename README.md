@@ -4,7 +4,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=wenhaofree)
 -->
 
+
 ## Hi there 👋
+<img align='right' src="https://image.wenhaofree.com/2025/05/aa4c0620a172bac50583132244a8ee1f.png" width="350">
 
 This is the place where I opensource stuff and break things 🤣
 
