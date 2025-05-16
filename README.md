@@ -6,19 +6,24 @@
 
 
 ## Hi there 👋
-<img align='right' src="https://image.wenhaofree.com/2025/05/aa4c0620a172bac50583132244a8ee1f.png" width="350">
+<img align='right' src="https://cdn.jsdelivr.net/gh/wenhaofree/Image/wenhaofree.png" width="400">
 
 This is the place where I opensource stuff and break things 🤣
 
-🔭 Currently working on: Some cool projects, focusing on full-stack development. 😉
+🔭 **Currently Working On**: Some exciting full-stack development projects.
 
-🌱 Learning: Improving my skills in backend and frontend technologies!
+🌱 **Learning**: Enhancing my skills in both backend and frontend technologies.
 
-💬 Ask me about: Java, Python, Node.js, Next.js, React, MySQL, PostgreSQL, Redis, MongoDB, Spring Boot.
+💬 **Ask Me About**:
 
-👨‍💻 Projects: You can check out my projects and contributions at wenhaofree.com
+* Programming Languages: Java, Python, Go
+* Web Technologies: Node.js, Next.js, React
+* Databases: MySQL, PostgreSQL, Redis, MongoDB
+* Frameworks: Spring Boot
 
-⚡ Fun fact: I have a goal to raise a cat 🐈 and build some fun things together!
+👨‍💻 **Projects**: Check out my open-source contributions and personal projects at [wenhaofree.com](http://wenhaofree.com).
+
+⚡ **Fun Fact**: I’m on a mission to raise a cat 🐱 and build some awesome things with them!
 
 
 <picture>
