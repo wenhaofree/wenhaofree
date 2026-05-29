@@ -6,7 +6,7 @@
 
 
 ## Hi there 👋
-<img align='right' src="https://cdn.jsdelivr.net/gh/wenhaofree/Image/wenhaofree.png" width="400">
+<img align='right' src="https://cdn.jsdelivr.net/gh/wenhaofree/Image/wenhaoai.png" width="400">
 
 This is the place where I opensource stuff and break things 🤣
 
